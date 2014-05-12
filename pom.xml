@@ -4,12 +4,13 @@
 	<parent>
 		<groupId>net.sf.taverna</groupId>
 		<artifactId>taverna-parent</artifactId>
-		<version>2.5-SNAPSHOT</version>
+		<version>2.6-SNAPSHOT</version>
         <relativePath>../../taverna-parent/pom.xml</relativePath>
 	</parent>
 
 	<groupId>net.sf.taverna.t2</groupId>
 	<artifactId>provenance-client</artifactId>
+        <name>Taverna engine provenance client</name>
 	<version>1.6-SNAPSHOT</version>
 	<repositories>
 		<repository>
