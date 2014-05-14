@@ -80,8 +80,9 @@
 
 	</dependencies>
 	<scm>
-		<connection>scm:svn:http://taverna.googlecode.com/svn/taverna/engine/net.sf.taverna.t2.provenance-client/branches/maintenance/</connection>
-		<developerConnection>scm:svn:https://taverna.googlecode.com/svn/taverna/engine/net.sf.taverna.t2.provenance-client/branches/maintenance/</developerConnection>
-		<url>http://code.google.com/p/taverna/source/browse/#svn/taverna/engine/net.sf.taverna.t2.provenance-client/branches/maintenance</url>
+                <connection>scm:git:https://github.com/taverna/taverna-engine-provenance-client.git</connection>
+                <developerConnection>scm:git:ssh://git@github.com:taverna/taverna-engine-provenance-client.git</developerConnection>
+                <url>https://github.com/taverna/taverna-engine-provenance-client</url>
+                <tag>HEAD</tag>
 	</scm>
 </project>
