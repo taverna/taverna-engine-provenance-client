@@ -20,7 +20,6 @@ import net.sf.taverna.t2.provenance.lineageservice.URIGenerator;
 import net.sf.taverna.t2.provenance.lineageservice.utils.Port;
 import net.sf.taverna.t2.provenance.lineageservice.utils.PortBinding;
 
-import org.apache.derby.catalog.GetProcedureColumns;
 import org.apache.log4j.Logger;
 
 import com.hp.hpl.jena.rdf.model.Model;
